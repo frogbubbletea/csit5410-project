@@ -1,0 +1,13 @@
+path: PCBData_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: background
+  1: open
+  2: short
+  3: mousebite
+  4: spur
+  5: copper
+  6: pin-hole
