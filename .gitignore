@@ -1,4 +1,5 @@
 PCBData/
 PCBData_yolo/
 runs/
+runs_batchsize_lr0/
 .venv/
